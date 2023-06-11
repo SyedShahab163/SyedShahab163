@@ -11,7 +11,7 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 - ✍ You can find my resume here [Resume]
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on open source
-- 📫 Reach out to me: bhumikatewary49@gmail.com
+- 📫 Reach out to me: syedshahab163@gmail.com
 - ⚡ Fun fact: I know how to play a piano
 
 <br>
